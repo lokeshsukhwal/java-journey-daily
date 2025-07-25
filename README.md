@@ -49,4 +49,4 @@ Each day, you'll find:
 1. Make sure you have Java installed (`java -version`).
 2. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/java-zero-to-hero.git
+   git clone https://github.com/lokeshsukhwal/java-journey-daily
