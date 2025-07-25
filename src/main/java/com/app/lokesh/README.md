@@ -36,12 +36,14 @@ public class HelloWorld {
         System.out.println("Hello, Lokesh — Java is now your playground!");
     }
 }
+
 Compile & Run
 Green “Run” arrow in IntelliJ
 Or terminal inside project root:
 
 javac HelloWorld.java   # compiles to HelloWorld.class (bytecode)
 java HelloWorld         # JVM runs the bytecode
+
 Expected console output:
 Hello, Lokesh — Java is now your playground!
 
