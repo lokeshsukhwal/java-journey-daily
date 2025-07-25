@@ -1,6 +1,12 @@
-package com.app.lokesh;
+package com.app.lokesh.day01;
 
 import java.time.LocalDate;
+
+/*
+☕  ┌─────────────────────────────┐
+    │  Day 1: Java & Me 🤝        │
+    └─────────────────────────────┘
+*/
 
 //File: HelloWorld.java
 //public class name MUST match the file name (case-sensitive!)

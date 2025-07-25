@@ -60,6 +60,7 @@ git add .
 git commit -m "Day 1: Hello World in Java"
 gh repo create hello-java --public --source=. --push
 # (or create repo on GitHub UI and follow push instructions)
+
 Your repo URL becomes proof of progress on your resume.
 📝 DAY 1 HOMEWORK (due in 24 h)
 Change the message to include today’s date and your favorite emoji.
